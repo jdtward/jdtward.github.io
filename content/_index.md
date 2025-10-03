@@ -16,7 +16,7 @@ sections:
         <br>
 
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+       We are a clinician–scientist team advancing how prostate and genitourinary (GU) cancers are detected, risk-stratified, and treated. Led by **Jonathan D. Tward, MD, PhD, FASTRO**—Professor of Radiation Oncology at the University of Utah and Huntsman Cancer Institute—our lab bridges AI, image-guided radiotherapy, and prospective clinical trials to deliver care that is both **more effective and less toxic**.
   
   - block: collection
     content:
