@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Tward Research Group
-     
+        Tward Research Group     
       image:
         filename: welcome.jpg
       text: |
