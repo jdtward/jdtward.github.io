@@ -8,8 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+       # Tward Research Group
+       ### Precision radiation oncology for prostate and genitourinary cancers
       image:
         filename: welcome.jpg
       text: |
