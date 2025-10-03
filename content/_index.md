@@ -9,7 +9,7 @@ sections:
     content:
       title: |
         Tward Research Group
-        ### Precision radiation oncology for prostate and genitourinary cancers
+     
       image:
         filename: welcome.jpg
       text: |
