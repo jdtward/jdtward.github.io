@@ -16,7 +16,7 @@ sections:
         <br>
 
         
-       We are a clinician–scientist team advancing how prostate and genitourinary (GU) cancers are detected, risk-stratified, and treated.
+       We are a clinician–scientist team 
   
   - block: collection
     content:
