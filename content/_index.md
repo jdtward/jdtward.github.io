@@ -27,14 +27,26 @@ sections:
 
 
 sections:
+
+sections:
   - block: markdown
     content:
       title: "About This Section"
       subtitle: "More details below"
       text: |
+        ## Welcome
+        
+        This is **markdown content** that you can edit.
+        ## What we work on
+        - **AI-enhanced risk stratification.** We helped pioneer **multimodal deep-learning models** that integrate digital pathology with clinical features to outperform conventional systems and define actionable thresholds within phase III NRG Oncology trials.
+        - **Metastasis-directed therapies & radiopharmaceuticals.** We design and lead trials combining **SABR** with agents like **radium-223** to control oligometastatic disease while preserving quality of life and delaying systemic therapy.
+        - **Brachytherapy & treatment quality.** From perirectal spacers and customized bolus to HDR/LDR technique optimization, we focus on interventions that **maximize tumor control and minimize side effects.**
+        - **Guideline leadership & implementation.** Dr. Tward serves on **NCCN guideline panels** (prostate, bladder, penile) and resource-stratification efforts that shape standards of care globally.
 
-
-
+        
+        - Create lists
+        - Add links
+        - Format text
         
         [Learn more](https://example.com)
     design:
