@@ -30,10 +30,13 @@ sections:
         - **Brachytherapy & treatment quality.** From perirectal spacers and customized bolus to HDR/LDR technique optimization, we focus on interventions that **maximize tumor control and minimize side effects.**
         - **Guideline leadership & implementation.** Dr. Tward serves on **NCCN guideline panels** (prostate, bladder, penile) and resource-stratification efforts that shape standards of care globally.
 
-        
-        - Create lists
-        - Add links
-        - Format text
+
+        ## Why it matters
+        Prostate cancer is heterogeneous; two patients with the same stage can face very different trajectories. Our research delivers:
+        - **Sharper prognostication** using AI on routine histology to better match intensity of care to individual risk.
+        - **Therapies that preserve quality of life,** such as SABR plus alpha-emitting radiopharmaceuticals that aim to control bone-only oligometastatic disease while postponing long-term androgen deprivation.
+        - **Practical pathways** that align cutting-edge evidence with day-to-day clinical decisions through NCCN leadership.
+
         
         [Learn more](https://example.com)
     design:
