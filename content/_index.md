@@ -38,10 +38,10 @@ sections:
         - **Practical pathways** that align cutting-edge evidence with day-to-day clinical decisions through NCCN leadership.
 
 
-## Our approach
-1. **Ask better questions.** Use population data, prospective trials, and digital pathology to identify who benefits from which therapy.
-2. **Engineer better care.** Translate insights into improved radiation planning, brachytherapy techniques, and workflow standards.
-3. **Share and scale.** Drive consensus through guideline work and open collaboration with urology, medical oncology, pathology, imaging, and data science.
+        ## Our approach
+        1. **Ask better questions.** Use population data, prospective trials, and digital pathology to identify who benefits from which therapy.
+        2. **Engineer better care.** Translate insights into improved radiation planning, brachytherapy techniques, and workflow standards.
+        3. **Share and scale.** Drive consensus through guideline work and open collaboration with urology, medical oncology, pathology, imaging, and data science.
 
         
         [Learn more](https://example.com)
