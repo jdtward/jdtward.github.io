@@ -21,9 +21,6 @@ sections:
         - **Metastasis-directed therapies & radiopharmaceuticals.** We design and lead trials combining **SABR** with agents like **radium-223** to control oligometastatic disease while   preserving quality of life and delaying systemic therapy.
         - **Brachytherapy & treatment quality.** From perirectal spacers and customized bolus to HDR/LDR technique optimization, we focus on interventions that **maximize tumor control and   minimize side effects.**
         - **Guideline leadership & implementation.** Dr. Tward serves on **NCCN guideline panels** (prostate, bladder, penile) and resource-stratification efforts that shape standards of care globally.
-         
-
-
   
   - block: collection
     content:
