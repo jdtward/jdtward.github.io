@@ -23,6 +23,30 @@ sections:
           - **Brachytherapy & treatment quality.** From perirectal spacers and customized bolus to HDR/LDR technique optimization, we focus on interventions that **maximize tumor control and minimize side effects.**
           - **Guideline leadership & implementation.** Dr. Tward serves on **NCCN guideline panels** (prostate, bladder, penile) and resource-stratification efforts that shape standards of care globally.
 
+
+
+
+sections:
+  - block: markdown
+    content:
+      title: "About This Section"
+      subtitle: "More details below"
+      text: |
+        ## Welcome
+        
+        This is **markdown content** that you can edit.
+        
+        - Create lists
+        - Add links
+        - Format text
+        
+        [Learn more](https://example.com)
+    design:
+      columns: "1"
+      background:
+        color: "white"
+
+
          
   - block: collection
     content:
