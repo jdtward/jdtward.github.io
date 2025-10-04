@@ -15,16 +15,7 @@ sections:
       text: |
         
           We are a clinician–scientist team advancing how prostate and genitourinary (GU) cancers are detected, risk-stratified, and treated. Led by **Jonathan D. Tward, MD, PhD, FASTRO**—Professor of Radiation Oncology at the University of Utah and Huntsman Cancer Institute—our lab bridges AI, image-guided radiotherapy, and prospective clinical trials to deliver care that is both **more effective and less toxic**.
-          <small>hi</small>
-
-          ## What we work on
-          - **AI-enhanced risk stratification.** We helped pioneer **multimodal deep-learning models** that integrate digital pathology with clinical features to outperform conventional systems and define actionable thresholds within phase III NRG Oncology trials.
-          - **Metastasis-directed therapies & radiopharmaceuticals.** We design and lead trials combining **SABR** with agents like **radium-223** to control oligometastatic disease while preserving quality of life and delaying systemic therapy.
-          - **Brachytherapy & treatment quality.** From perirectal spacers and customized bolus to HDR/LDR technique optimization, we focus on interventions that **maximize tumor control and minimize side effects.**
-          - **Guideline leadership & implementation.** Dr. Tward serves on **NCCN guideline panels** (prostate, bladder, penile) and resource-stratification efforts that shape standards of care globally.
-
-
-
+    
 
 sections:
 
