@@ -18,7 +18,6 @@ sections:
     
 
 
-sections:
   - block: markdown
     content:
       title: "About This Section"
