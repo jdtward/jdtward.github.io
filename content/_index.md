@@ -11,7 +11,7 @@ sections:
        
        ### Precision radiation oncology for prostate and genitourinary cancers
       image:
-        filename: welcome.jpg
+        filename: twardgroup.png
       text: |
         
           We are a clinician–scientist team advancing how prostate and genitourinary (GU) cancers are detected, risk-stratified, and treated. Led by **Jonathan D. Tward, MD, PhD, FASTRO**—Professor of Radiation Oncology at the University of Utah and Huntsman Cancer Institute—our lab bridges AI, image-guided radiotherapy, and prospective clinical trials to deliver care that is both **more effective and less toxic**.
