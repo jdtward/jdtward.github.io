@@ -20,12 +20,10 @@ sections:
 
   - block: markdown
     content:
-      title: "About This Section"
-      subtitle: "More details below"
+      title: "What we work on"
+      
       text: |
-        ## Welcome
-        
-        This is **markdown content** that you can edit.
+
         ## What we work on
         - **AI-enhanced risk stratification.** We helped pioneer **multimodal deep-learning models** that integrate digital pathology with clinical features to outperform conventional systems and define actionable thresholds within phase III NRG Oncology trials.
         - **Metastasis-directed therapies & radiopharmaceuticals.** We design and lead trials combining **SABR** with agents like **radium-223** to control oligometastatic disease while preserving quality of life and delaying systemic therapy.
